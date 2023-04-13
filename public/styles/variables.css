@@ -1,0 +1,71 @@
+
+
+@font-face {
+    font-family: "manrope-medium";
+    src: url(/public/fonts/Manrope-Medium.ttf);
+}
+
+
+
+
+:root {
+
+--padding-section: 100px;
+
+--margin-block: 320px;
+
+--primary-margin: 32px;
+
+--secondary-margin: 16px;
+
+--third-margin-: 8px;
+
+--foorth-margin-: 24px;
+
+--fiveth-margin-: 16px;
+
+
+--primary-: black;
+--secondary-: #FF6433; 
+--third-: gray;
+--sixth-: #661CE7;
+--fourth-: #E2E6E9;
+--fivth-: #F2F2F2;
+
+
+
+--primary-opacity: 0.7;
+
+--heading-1-weight: 800;
+--primary-weight: 600;
+
+--headingh1-fs: 64px;
+--headingh2-fs: 58px;
+--headingh3-fs: 48px;
+--headingh4-fs: 40px;
+--headingh5-fs: 32px;
+--headingh6-fs: 20px;
+--heading7-fs: 24px;
+
+
+
+--paragraph-fs18: 18px;
+--paragraph-fs16: 16px;
+
+
+
+--caption-fs: 12px;
+
+
+--primary-ff: "manrope-medium";
+
+
+--bg-primary-color: #E2E6E9;
+
+--secondary-bg: #FF6433; 
+
+
+
+
+
+}

@@ -1,0 +1,58 @@
+.btn {
+    padding: 16px 40px;
+    background: #FF6433;
+    border-radius: 12px;
+    border: lightgray;
+    color: aliceblue;
+    font-size: 18px;
+    margin-top: 32px;
+    transition: 400ms;
+}
+
+
+.btn:hover {
+    padding: 16px 40px;
+    border-radius: 12px;
+    border: aliceblue;
+    background-color: aliceblue;
+    color: black;
+    font-size: 18px;
+    margin-top: 32px;
+    cursor: pointer;
+    box-shadow: 16px 16px black;
+   
+}
+
+
+.black-btn {
+    border-radius: 12px;
+    width: 100px;
+    height: 100px;
+    margin-top: 48px;
+    margin-left: 128px;
+    background-color: black;
+    transition: 400ms;
+    color: aliceblue;
+    border: white;
+}
+
+.black-btn:hover {
+    border-radius: 12px;
+    margin-top: 48px;
+    margin-left: 128px;
+    background-color: white;
+    color: black;
+    box-shadow: 16px 16px black;
+    border:  white;
+    cursor: pointer;
+}
+
+
+.df {
+    display: flex;
+}
+
+.icon {
+    width: 47px;
+    height: 47px;
+}
